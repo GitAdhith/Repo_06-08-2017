@@ -9,7 +9,7 @@
 
 #import "ViewController.h"
 #import "TableViewCell.h"
-#import "UIColor+CustomRed.h"
+//#import "UIColor+CustomRed.h"
 
 @interface ViewController ()<UITableViewDataSource>
 {
